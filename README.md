@@ -1,4 +1,4 @@
-## About Laravel
+## About Project
 
 Made by laravel , vuejs , inertia js
 
